@@ -1,8 +1,0 @@
-{
-"name":"Hunny#9125",
-"ticker":"HUNNY",
-"discordId":"824935997397008415",
-"pool-list":"true",
-"poolMetaData":"https://raw.githubusercontent.com/alpakapopo/cardano_host/main/poolMetaData.json",
-"validation":"https://raw.githubusercontent.com/alpakapopo/cardano_host/main/sjg-validation.json"
-}
