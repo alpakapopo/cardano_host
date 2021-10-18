@@ -1,6 +1,7 @@
 {
-"name": "HUNNY pool",
-"description": "At hunny pool we are committed in providing the Cardano community with financial. We will strive to provide quality reliably service 24/7 & aim to maximise your return on stake. できるだけ皆様のステーキングに貢献できるようにプール運営を頑張ります",
+"name": "HUNNY pool🍯",
+"description": "0% fee. High security and low cost. You can earn the maximum profit. By translating Cardano English information into Japanese, we are contributing to the decentralization of access to a variety of information for the Cardano community. 0%手数料。高セキュリティと低コスト。委任者の方は最大の利益を獲得することができます。カルダノ英語情報を日本語に翻訳するなど、役に立つ情報発信を心がけています。",
 "ticker": "HUNNY",
-"homepage": "https://twitter.com/kurokuma_hunny"
+"homepage": "https://www.hunny-pool.com",
+"extended": "https://raw.githubusercontent.com/alpakapopo/cardano_host/main/extendedMeta.json"
 }
