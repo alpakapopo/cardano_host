@@ -1,7 +1,8 @@
 {
-"name": "HUNNY pool🍯",
-"description": "0% fee. High security and low cost. You can earn the maximum profit. カルダノ英語情報を日本語に翻訳するなど、役に立つ情報発信を心がけています。",
-"ticker": "HUNNY",
-"homepage": "https://www.hunny-pool.com",
-"extended": "https://raw.githubusercontent.com/alpakapopo/cardano_host/main/extendedMeta.json"
+    "name": "HUNNY pool🍯",
+    "description": "カルダノ英語情報を日本語に翻訳するなど、役に立つ情報発信を心がけています。",
+    "ticker": "HUNNY",
+    "homepage": "https://www.hunny-pool.com",
+    "extended": "https://raw.githubusercontent.com/alpakapopo/cardano_host/main/extendedMeta.json",
+    "nonce":"1711555731"
 }
